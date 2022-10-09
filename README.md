@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alenobic
 - 🌱 I’m currently learning JavaScript, HTML, CSS, 
 - Already learned some Python ... [ I'm not Good at it]
-- 
 
 
 <!---
